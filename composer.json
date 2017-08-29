@@ -1,0 +1,20 @@
+{
+  "name": "poirot/perevent",
+  "authors": [
+    {
+      "name": "Mostafa Kamali",
+      "email": "sorena.551@gmail.com@gmail.com"
+    },
+    {
+      "name": "Mostafa Kamali"
+    }
+  ],
+  "require": {
+    "poirot/std": "dev-devel"
+  },
+  "autoload": {
+    "psr-4": {
+      "Poirot\\Perevent\\": "src/"
+    }
+  }
+}
